@@ -33,7 +33,6 @@
 
 
 ### 안드로이드 어플리케이션
-<img width="1334" alt="image" src="https://user-images.githubusercontent.com/8960704/223732315-74505333-8555-4a64-a590-e8db7181010e.png">
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/8960704/223733441-579e6d52-81fd-4fa5-aadb-3f46dc48a16c.png">
 
 ## 기술 스택
