@@ -37,13 +37,14 @@
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/8960704/223733441-579e6d52-81fd-4fa5-aadb-3f46dc48a16c.png">
 
 ## 기술 스택
-- javascript
-- angular.js
-- bootstrap
+- Javascript
+- Angular.js
+- Bootstrap
 - jQuery
-- node.js
-- express
-- websocket
+- Node.js
+- Express
+- Websocket
+- MySQL
 
 ## License
 GPL license
